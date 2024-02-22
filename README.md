@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thilina Ruwan</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thilinaruwan112" alt="thilinaruwan112" /></a> </p>
 
 - 🔭 I’m currently working on [Payshia ERP](https://payshia.com/)
 
