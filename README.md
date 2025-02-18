@@ -18,7 +18,7 @@
 
 <!-- About Me Section with Custom Design -->
 <div align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About Me***
+ <h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;About Me</h3>
 </div>
 
 ```javascript
@@ -35,7 +35,7 @@ const thilinaRuwan = {
 
 <!-- Tech Stack Section -->
 <div align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px">&nbsp;**My Tech Stack**
+  <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px">&nbsp;My Tech Stack</h3>
 </div>
 
 <p align="center">
